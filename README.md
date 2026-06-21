@@ -33,13 +33,17 @@
 # Pablo Isla
 
 ## Evidencia 1: Creación del proyecto e instalación de shadcn
+![alt text](Pablo-Isla/docs/evi01.png)
 
 ## Evidencia 2: Creación de rutas
+![alt text](Pablo-Isla/docs/evi02.png)
 
 ## Evidencia 3: Creación del layout
+![alt text](Pablo-Isla/docs/evi03.png)
 
 ## Evidencia 4: Homepage
-
+![alt text](Pablo-Isla/docs/evi04.png)
+![alt text](Pablo-Isla/docs/evi05.png)
 
 
 ## Autor
