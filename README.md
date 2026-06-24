@@ -50,12 +50,15 @@
 # Piero Huaytalla
 
 ## Evidencia 1: Creación del proyecto e instalación de shadcn
-
+![alt text](Piero-Huaytalla/docs/evi1.png)
 
 ## Evidencia 2: Creación de rutas
-
+![alt text](Piero-Huaytalla/docs/evi2.png)
 ## Evidencia 3: Creación del layout
 
+![alt text](Piero-Huaytalla/docs/evi3.png)
 
 ## Evidencia 4: Homepage
-
+![alt text](Piero-Huaytalla/docs/evi4.png)
+![alt text](Piero-Huaytalla/docs/cartelera.png)
+![alt text](Piero-Huaytalla/docs/detalle.png)
